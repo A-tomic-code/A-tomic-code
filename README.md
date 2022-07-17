@@ -1,8 +1,12 @@
-- 👋 Hola, Soy @A-tomic-code, vivo en Madrid, tengo 28años y soy estudiante de la escuela Codenotch.
-- 👀 I’m interested in ...
+# 👋 Hola, Soy @A-tomic-code
+
+- 📍 Vivo en Madrid, España.
+- 🙋‍♂️ Tengo 28años y soy estudiante de la escuela Codenotch.
+<!--- - 👀 I’m interested in ...
 - 🌱 Actualmente estoy aprendiendo Javascript, HTML, CSS, Angular, Django, Node y algunas tecnologías más ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Se me puede contactar en danielvazquezheredia1994@gmail.com ...
+- 💞️ Estoy bucando colaborar en proyectos web.
+- 📫 Se me puede contactar en danielvazquezheredia1994@gmail.com.
+
 
 <!---
 A-tomic-code/A-tomic-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
