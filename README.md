@@ -1,11 +1,15 @@
 # 👋 Hola, Soy @A-tomic-code
 
 - 📍 Vivo en Madrid, España.
-- 🙋‍♂️ Tengo 28años y soy estudiante de la escuela Codenotch.
-<!--- - 👀 I’m interested in ...
+- 🙋‍♂️ Tengo 28años y soy estudiante de dearrollo web en la escuela Codenotch.
+- 👀 Mis intereses son el crecimiento profesional y académico.
 - 🌱 Actualmente estoy aprendiendo Javascript, HTML, CSS, Angular, Django, Node y algunas tecnologías más ...
 - 💞️ Estoy bucando colaborar en proyectos web.
-- 📫 Se me puede contactar en danielvazquezheredia1994@gmail.com.
+- 📫 Puedes contactarme en danielvazquezheredia1994@gmail.com.
+<!--- --->
+
+
+###  'Para encontrarte a ti mismo, piensa en ti mismo - Socrates'
 
 
 <!---
